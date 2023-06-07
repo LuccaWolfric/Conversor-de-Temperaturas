@@ -48,4 +48,4 @@ desenvolvedor do projeto
 | :---: 
 
 
-Copyright :copyright: 2023 - Calculadora-IMC
+Copyright :copyright: 2023 - Conversor-de-Temperaturas
